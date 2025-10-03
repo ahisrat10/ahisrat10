@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hey there, I'm Abdul Halim Israt
+# 👋 Hey there, I'm 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Abdul+Halim+Israt)](https://git.io/typing-svg)
 
 ### 🚀 Aspiring MERN Full Stack Developer | 🌏 Bangladesh
 
@@ -102,14 +103,8 @@ const abdulHalimIsrat = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/ahisrat10/ahisrat10/output/github-contribution-grid-snake-dark.svg)
-
----
-
 **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+[![](https://visitcount.itsvg.in/api?id=ahisrat10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
